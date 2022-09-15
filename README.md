@@ -34,7 +34,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:juniorsergio/simulador-investimentos.git
+$ git clone https://github.com/juniorsergio/simulador-investimentos.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd simulador-investimentos
@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[react-chartjs-2](https://react-chartjs-2.js.org/)**
 -   **[Jest](https://jestjs.io/pt-BR/)**
 
-> Veja o arquivo  [package.json](https://github.com/juniorsergio/simulador-investimentos/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/juniorsergio/simulador-investimentos/blob/master/package.json)
 
 ---
 
@@ -74,11 +74,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <a href="https://juniorsergio.github.io/">
  <img style="border-radius: 50%;" src="https://github.com/juniorsergio.png" width="100px;" alt="Imagem de perfil"/>
- <br />
- <sub><b>Sergio Junior</b></sub>
 </a>
 
 <br/>
+
+[![Github Badge](https://img.shields.io/badge/-Sergio_Junior-100000?style=flat-square&logo=github&logoColor=white&link=https://juniorsergio.github.io/)](https://juniorsergio.github.io/) 
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sergio_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniorsergio/)](https://www.linkedin.com/in/juniorsergio/) 
 
