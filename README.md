@@ -42,6 +42,9 @@ $ cd simulador-investimentos
 # Instale as dependências
 $ npm install
 
+# Execute o backend conforme especificações
+https://github.com/eqi-investimentos/desafio-fake-api
+
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
